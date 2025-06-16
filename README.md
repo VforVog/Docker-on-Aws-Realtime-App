@@ -29,7 +29,7 @@ A simple Flask-based web application containerized with Docker, using a PostgreS
   
 - 🔐 Uses Docker secrets for sensitive environment values
 
-
+<br><br>
 
 
 🛠️ Tech Stack
@@ -38,6 +38,8 @@ A simple Flask-based web application containerized with Docker, using a PostgreS
 - PostgreSQL
 - Docker / Docker Compose
 - AWS ECS / IAM / Security Groups
+
+<br><br>
 
 
 🐳 My Docker Hub
