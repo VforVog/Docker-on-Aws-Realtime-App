@@ -2,7 +2,7 @@
 <hr>
 A simple Flask-based web application containerized with Docker, using a PostgreSQL database, and deployed on AWS ECS with public access enabled via security groups and task definitions. 
 <br>
-<br>
+<br> <br>
 
 
 🚀 Features
@@ -29,7 +29,7 @@ A simple Flask-based web application containerized with Docker, using a PostgreS
   
 - 🔐 Uses Docker secrets for sensitive environment values
 
-<br><br>
+<br>
 
 
 🛠️ Tech Stack
@@ -39,7 +39,7 @@ A simple Flask-based web application containerized with Docker, using a PostgreS
 - Docker / Docker Compose
 - AWS ECS / IAM / Security Groups
 
-<br><br>
+<br>
 
 
 🐳 My Docker Hub
