@@ -1,0 +1,53 @@
+🐳📦 A Realtime Docker Python App
+
+A simple Flask-based web application containerized with Docker, using a PostgreSQL database, and deployed on AWS ECS with public access enabled via security groups and task definitions.
+
+
+
+🚀 Features
+
+• Lightweight Flask web app 
+
+
+• 🐳 Docker Compose setup with:
+
+  • Web server container
+
+  • PostgreSQL container (with volume + secret support)
+  
+
+🛠️ Hot-reload during development
+
+• ☁️ Deployed on AWS ECS with:
+
+  • Custom Security Groups allowing HTTP traffic (port 8080)
+
+  • ECS Clusters and Task Definitions
+
+  • Public access via Fargate
+  
+
+🔐 Uses Docker secrets for sensitive environment values
+
+
+
+
+🛠️ Tech Stack
+Python 3.10.2
+
+Flask
+
+PostgreSQL
+
+Docker / Docker Compose
+
+AWS ECS / IAM / Security Groups
+
+
+🐳 My Docker Hub
+https://hub.docker.com/u/vforvog
+
+
+<br><p align="center"><b>Simulation</b></p><br>
+
+![Lex Demo](SimulationVideo/gif.gif)
