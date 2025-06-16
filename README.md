@@ -7,42 +7,37 @@ A simple Flask-based web application containerized with Docker, using a PostgreS
 
 🚀 Features
 
-• Lightweight Flask web app 
+- Lightweight Flask web app 
 
 
-• 🐳 Docker Compose setup with:
+- 🐳 Docker Compose setup with:
 
-  • Web server container
+  - Web server container
 
-  • PostgreSQL container (with volume + secret support)
+  - PostgreSQL container (with volume + secret support)
   
 
-🛠️ Hot-reload during development (whenever there is a change in code, the app automatically reloads without doing it manually)
+- 🛠️ Hot-reload during development (whenever there is a change in code, the app automatically reloads without doing it manually)
 
-• ☁️ Deployed on AWS ECS with:
+- ☁️ Deployed on AWS ECS with:
 
-  • Custom Security Groups allowing HTTP traffic (port 8080)
+  - Custom Security Groups allowing HTTP traffic (port 8080)
 
-  • ECS Clusters and Task Definitions
+  - ECS Clusters and Task Definitions
 
-  • Public access via Fargate
+  - Public access via Fargate
   
-
-🔐 Uses Docker secrets for sensitive environment values
+- 🔐 Uses Docker secrets for sensitive environment values
 
 
 
 
 🛠️ Tech Stack
-Python 3.10.2
-
-Flask
-
-PostgreSQL
-
-Docker / Docker Compose
-
-AWS ECS / IAM / Security Groups
+- Python 3.10.2
+- Flask
+- PostgreSQL
+- Docker / Docker Compose
+- AWS ECS / IAM / Security Groups
 
 
 🐳 My Docker Hub
