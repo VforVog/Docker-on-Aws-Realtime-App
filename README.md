@@ -16,7 +16,7 @@ A simple Flask-based web application containerized with Docker, using a PostgreS
   • PostgreSQL container (with volume + secret support)
   
 
-🛠️ Hot-reload during development
+🛠️ Hot-reload during development (whenever there is a change in code, the app automatically reloads without doing it manually)
 
 • ☁️ Deployed on AWS ECS with:
 
