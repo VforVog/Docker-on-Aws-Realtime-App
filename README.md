@@ -1,4 +1,4 @@
-<br><p align="center"><b>🐳📦🐍 A Realtime Docker Python App on AWSb></p><br>
+<br><p align="center"><b>🐳📦🐍 A Realtime Docker Python App on AWS<b></p><br>
 <hr>
 A simple Flask-based web application containerized with Docker, using a PostgreSQL database, and deployed on AWS ECS with public access enabled via security groups and task definitions. 
 <br>
